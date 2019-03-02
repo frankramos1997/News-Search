@@ -1,0 +1,28 @@
+ #header{
+    border-color: white;
+    background-color: navy;
+    font-size: 50px; color: white;
+    font: bold;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    height: 20%;
+    margin-top: 1%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body{
+    margin: .5%
+}
+
+.form-control{
+    margin: 5px;
+}
+
+.btn{
+    color: black
+}
+form{
+    margin-top: 5%;
+}
